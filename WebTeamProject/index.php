@@ -9,13 +9,13 @@
 </head>
 <body>
 <header>
-
+    <?php include $_SERVER['DOCUMENT_ROOT'] . "/WebTeamProject/header.php" ?>
 </header>
 <section>
-
+    <?php include $_SERVER['DOCUMENT_ROOT'] . "/WebTeamProject/section.php" ?>
 </section>
 <footer>
-
+    <?php include $_SERVER['DOCUMENT_ROOT'] . "/WebTeamProject/footer.php" ?>
 </footer>
 </body>
 </html>
