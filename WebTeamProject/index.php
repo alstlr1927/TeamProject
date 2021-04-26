@@ -8,6 +8,14 @@
     <title>Document</title>
 </head>
 <body>
-    안녕하세요
+<header>
+
+</header>
+<section>
+
+</section>
+<footer>
+
+</footer>
 </body>
 </html>
